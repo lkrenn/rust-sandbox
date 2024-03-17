@@ -1,0 +1,11 @@
+/Users/lucaskrenn/vs_projects/rust-sandbox/api_networking/target/debug/deps/libcc-9c43132000bf7a6b.rmeta: /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/Users/lucaskrenn/vs_projects/rust-sandbox/api_networking/target/debug/deps/libcc-9c43132000bf7a6b.rlib: /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/Users/lucaskrenn/vs_projects/rust-sandbox/api_networking/target/debug/deps/cc-9c43132000bf7a6b.d: /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs:
+/Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs:
+/Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs:
+/Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs:
+/Users/lucaskrenn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs:
